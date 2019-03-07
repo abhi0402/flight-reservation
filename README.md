@@ -1,0 +1,2 @@
+# flight-reservation
+Web based Application where one can view and book a flight between two cities. A process like sending an email with the attached itinerary on user’s registered email is done after successful booking also authentication and authorization have been implemented using Spring security. Technologies used are Spring Boot, JPA, Hibernate ORM for backend. JSP and JSTL in frontend. MySQL is used for database purpose.
